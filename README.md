@@ -1,5 +1,22 @@
 # 255312-STIW3054-A191-A1
 
+# INTRODUCTION
+Required to develop a small system using MAVEN and Java programming language. The system should be able to:
+
+Read data from a Github Issue page. Refer to the link below for the testing purpose.
+
+https://github.com/STIW3054-A191/Main-Issues/issues/1
+
+Read data from a Github Wiki page. Refer to the link below for the testing purpose.
+
+https://github.com/STIW3054-A191/Assignments/wiki/List_of_Student
+
+Compare the data and produce the following reports:
+
+-List all students who have submitted the GitHub account.
+-List all students who have not submitted the GitHub account.
+
+
 # OUTPUT:
 
 ![Output 1](https://user-images.githubusercontent.com/37300366/67159316-5daf3f00-f375-11e9-9a20-4caab40650ea.png)
