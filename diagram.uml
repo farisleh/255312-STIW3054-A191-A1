@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="0.0">GithubAcc</node>
+    <node x="0.0" y="456.0">List_of_Student</node>
+    <node x="399.0" y="456.0">ExcelWriter</node>
+    <node x="0.0" y="294.0">Data</node>
+    <node x="232.0" y="294.0">Compare</node>
+    <node x="191.0" y="0.0">NotSubmit</node>
+    <node x="207.0" y="456.0">Main</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="233.0" y="237.5" />
+  <SelectedNodes>
+    <node>GithubAcc</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
